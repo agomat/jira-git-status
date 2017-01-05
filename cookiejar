@@ -1,0 +1,28 @@
+[
+{
+    "domain": "xxx.atlassian.net",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "xxx",
+    "id": 6
+},
+{
+    "domain": ".xxx.atlassian.net",
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "studio.crowd.tokenkey",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "xxx",
+    "id": 4
+}
+]
